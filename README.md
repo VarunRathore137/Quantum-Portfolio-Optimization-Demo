@@ -1,6 +1,6 @@
 # The Hybrid Quantum Portfolio Optimizer
 
-**An Interactive Quantum-Inspired Portfolio Optimization System Using QAOA**
+**An Interactive Quantum-Inspired Portfolio Manager Using QAOA**
 
 This project demonstrates how quantum computing principles can be applied to real-world portfolio optimization problems. It uses the Quantum Approximate Optimization Algorithm (QAOA) to select optimal stock portfolios from real market data, helping investors maximize returns while minimizing risk.
 
@@ -8,7 +8,7 @@ This project demonstrates how quantum computing principles can be applied to rea
 
 ## 🎯 Overview
 
-The Quantum Portfolio Optimization Demo solves the classic Mean-Variance Portfolio Optimization problem using quantum computing techniques. By leveraging QAOA, this system:
+The Hybrid Quantum Portfolio Optimizer solves the classic Mean-Variance Portfolio Optimization problem using quantum computing techniques. By leveraging QAOA, this system:
 
 - **Fetches real-time market data** from Yahoo Finance (MSFT, TSLA, AAPL)
 - **Formulates the problem as a QUBO** (Quadratic Unconstrained Binary Optimization)
