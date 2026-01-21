@@ -1,3 +1,6 @@
+
+<img width="1500" height="768" alt="Gemini_Generated_Image_4ni2jm4ni2jm4ni2" src="https://github.com/user-attachments/assets/faf9b839-34cb-44eb-b276-6f179d16aa81" />
+
 # The Hybrid Quantum Portfolio Optimizer
 
 **An Interactive Quantum-Inspired Portfolio Manager Using QAOA**
