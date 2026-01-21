@@ -1,4 +1,4 @@
-# Quantum Portfolio Optimization Demo
+# The Hybrid Quantum Portfolio Optimizer
 
 **An Interactive Quantum-Inspired Portfolio Optimization System Using QAOA**
 
